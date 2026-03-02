@@ -1,14 +1,6 @@
 # Hi, I'm Menga Wanji
 
-Software Engineer specializing in JavaScript/TypeScript. I build scalable backend services with Node.js, NestJS, and Python (Django) , paired with React and Next.js.
-
----
-
-## Who I Am
-
-I'm a Software Engineer who speaks **JavaScript/TypeScript** fluently—whether it's crafting smooth frontends or wrestling with backend logic. I believe great code is just a conversation between creativity and structure.
-
-When I'm not staring at my terminal, I'm probably thinking about how to make my code a little cleaner, my APIs a little faster, or my components a little more reusable.
+Software Engineer specializing in JavaScript/TypeScript. I build scalable backend services with Node.js, NestJS, and Python (Django) , paired with React and Next.js. When I'm not staring at my terminal, I'm probably thinking about how to make my code a little cleaner, my APIs a little faster, or my components a little more reusable.
 
 ---
 
