@@ -12,17 +12,16 @@ Software Engineer specializing in JavaScript/TypeScript. I build scalable backen
 
 ## What I Use
 
-**Core Languages:**  
-JavaScript, TypeScript, Python
+- **Core Languages** JavaScript • TypeScript • Python
 
-**Frontend:**  
-React, Next.JS
+- **Frontend** React • Next.js • TailwindCSS
 
-**Backend:**  
-Node.js, NestJS, Django
+- **Backend** Node.js • ExpressJS • NestJS • Django
 
-**Cloud & Infrastructure:**  
-AWS (S3, learning the rest)
+- **Database** MongoDB • PostgreSQL
+
+- **Cloud & Infrastructure**  AWS (S3, plus whatever else I'm currently figuring out)
+
 
 ---
 
