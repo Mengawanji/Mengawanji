@@ -8,7 +8,7 @@ When I'm not coding, I'm usually thinking about how to make my APIs faster and m
 ---
 
 ## 🌱 Open to Work
-I’m open to new software development opportunities. I enjoy solving problems and building scalable, applications while continuously improving my skills. I thrive in collaborative environments and bring strong communication skills as an effective speaker and presenter.
+I’m open to new software development opportunities. I enjoy solving real-world problems and building scalable, applications while continuously improving my skills. I thrive in collaborative environments and bring strong communication skills as an effective speaker and presenter.
 
 Feel free to reach out if you’d like to collaborate or discuss potential roles.
 
@@ -21,7 +21,7 @@ Feel free to reach out if you’d like to collaborate or discuss potential roles
   Focused on performance, usability, and real-world impact.
 ---
 
-## 🖥️ Tech Stack
+## 💻 Tech Stack 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,13 +39,11 @@ Feel free to reach out if you’d like to collaborate or discuss potential roles
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
 
-## Let's Connect 🖂
+## 🖂 Let's Connect 
 
-I’m always open to conversations:
-
-Email: mengawanji@gmail.com  
-LinkedIn: https://www.linkedin.com/in/menga-wanji/  
-X: https://x.com/martial59137  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mengawanji@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menga-wanji/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/martial59137)
 
 
-*Thanks for stopping by! If you made it this far, feel free to connect—or send a meme 😄*
+*Thanks for stopping by! If you made it this far, feel free to connect or send a meme 😄*
