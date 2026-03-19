@@ -25,7 +25,7 @@ Feel free to reach out if you’d like to collaborate or discuss potential roles
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | **Languages** | **Frontend** | **Backend** | **Database** |
 |--------------|--------------|-------------|-------------|
@@ -33,7 +33,7 @@ Feel free to reach out if you’d like to collaborate or discuss potential roles
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect 🖂
 
 I’m always open to conversations:
 
