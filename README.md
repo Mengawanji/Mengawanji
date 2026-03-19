@@ -46,15 +46,11 @@ AWS (S3, and expanding) • Kubernetes (learning)
 
 ## 🤝 Let's Connect
 
-I’m always open to conversations about:
-- Building impactful products
-- Backend architecture & APIs
-- Collaboration opportunities
+I’m always open to conversations:
 
 Email: mengawanji@gmail.com  
 LinkedIn: https://www.linkedin.com/in/menga-wanji/  
 X: https://x.com/martial59137  
-
 
 
 *Thanks for stopping by! If you made it this far, feel free to connect—or send a meme 😄*
