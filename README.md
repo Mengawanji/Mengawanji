@@ -25,22 +25,11 @@ Feel free to reach out if you’d like to collaborate or discuss potential roles
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 
-### **Languages**
-JavaScript • TypeScript • Python  
-
-### **Frontend**
-React • Next.js • TailwindCSS  
-
-### **Backend**
-Node.js • Express.js • NestJS • Django  
-
-### **Database**
-MongoDB • PostgreSQL  
-
-### **Cloud & DevOps**
-AWS (S3, and expanding) • Kubernetes (learning)
+| **Languages** | **Frontend** | **Backend** | **Database** |
+|--------------|--------------|-------------|-------------|
+| JavaScript • TypeScript • Python | React • Next.js • TailwindCSS | Node.js • Express.js • NestJS • Django | MongoDB • PostgreSQL |
 
 ---
 
